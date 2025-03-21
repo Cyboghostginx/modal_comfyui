@@ -1,23 +1,22 @@
 # ComfyUI for Modal.com
 
-This repository provides simple modal run files to run and get a link to use comfyUI hosted on powerful GPUs from (Modal)[https://modal.com]
+This repository provides simple modal run files to run and get a link to use comfyUI hosted on powerful GPUs from [Modal](https://modal.com)
 
-![Wan2.1 Example](https://github.com/cyboghostginx/images.jpeg)
+![comfy Example](https://github.com/cyboghostginx/images.jpeg)
 
 ## Features
 
-- Text-to-Video generation (480p or 720p)
-- Image-to-Video generation (480p or 720p)
-- Support for both landscape and portrait orientations
-- Easy-to-use interactive script for model selection and configuration
-- Compatible with local and cloud GPU environments
+- One-run python installation
+- Auto-downloaded needed models
+- Auto-downloaded comfy manager
+- Persistency in run, and you can always add on models, or nodes later on 
+- many more...
 
 ## Requirements
 
-- NVIDIA GPU with CUDA support (at least 8GB VRAM for 1.3B model, 24GB+ recommended for 14B models)
-- CUDA 12.x
-- Python 3.8+
-- Git
+- Account at [Modal](https://modal.com)
+- Python 11+
+- Your computer (:
 
 ## Installation
 
