@@ -2,7 +2,7 @@
 
 This repository provides simple modal run files to run and get a link to use comfyUI hosted on powerful GPUs from [Modal](https://modal.com)
 
-![comfy Example](https://github.com/cyboghostginx/images.jpeg)
+![comfy Example](https://github.com/Cyboghostginx/modal_comfyui/blob/main/images.jpeg)
 
 ## Features
 
