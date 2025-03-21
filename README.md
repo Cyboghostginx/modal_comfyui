@@ -1,8 +1,8 @@
 # ComfyUI for Modal.com
 
-This repository provides a simple interface to generate high-quality videos using the Wan2.1 text-to-video and image-to-video models. The script automates the process of setting up dependencies, downloading models, and generating videos based on your prompts.
+This repository provides simple modal run files to run and get a link to use comfyUI hosted on powerful GPUs from (Modal)[https://modal.com]
 
-![Wan2.1 Example](https://github.com/yourusername/wan2.1-automation/assets/banner.gif)
+![Wan2.1 Example](https://github.com/cyboghostginx/images.jpeg)
 
 ## Features
 
