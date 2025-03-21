@@ -36,13 +36,24 @@ pip install -r requirements.txt
    ```bash
    cd models
    ```
+   
+2. Configure your modal with your token:
+   ```bash
+   pip install modal
+   modal setup
+   ```
+   or if modal setup doesn't work
+   ```bash
+   python -m modal setup
+   ```
+   Then follow the link to authenticate and your modal will save everything from your account and ready to use
 
-2. Run Whichever model you like:
+4. Run Whichever model you like:
    ```bash
    modal run {model_you_want)
    ```
 
-3. Optionally, you can run in detach mode meaning even ctrl+c end won't end your running script:
+5. Optionally, you can run in detach mode meaning even ctrl+c end won't end your running script:
    ```bash
     modal run -d {model_you_want)
    ```
