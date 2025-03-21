@@ -1,4 +1,4 @@
-# Wan2.1 Video Generation
+# ComfyUI for Modal.com
 
 This repository provides a simple interface to generate high-quality videos using the Wan2.1 text-to-video and image-to-video models. The script automates the process of setting up dependencies, downloading models, and generating videos based on your prompts.
 
