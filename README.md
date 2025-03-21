@@ -138,12 +138,11 @@ The script supports the following Wan2.1 models:
 
 ## Resolution Options
 
-| Model              | Landscape 480p | Landscape 720p | Portrait 480p | Portrait 720p |
-|--------------------|----------------|----------------|---------------|---------------|
-| 1.3B T2V           | ✅             | ❌             | ✅            | ❌            |
-| 14B T2V            | ✅             | ✅             | ✅            | ✅            |
-| 14B I2V (480p)     | ✅             | ❌             | ✅            | ❌            |
-| 14B I2V (720p)     | ❌             | ✅             | ❌            | ✅            |
+| Model              | Classification |
+|--------------------|----------------|
+| Flux          | Photo Gen             | 
+| Wan (soon)           | Video Gen            | 
+| loading..     | soon           | 
 
 ## Tips for Better Results
 
