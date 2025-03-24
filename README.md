@@ -32,9 +32,9 @@ pip install -r requirements.txt
 
 ### Running Locally
 
-1. Navigate to the models folder:
+1. Navigate to the models folder then choose (video-gen or picture-gen or sound-gen) based on your need:
    ```bash
-   cd models
+   cd models/{wherever_you_want_eg_wan_is_in_video-gen}
    ```
    
 2. Configure your modal with your token:
@@ -64,8 +64,8 @@ pip install -r requirements.txt
 
 | Model              | Classification |
 |--------------------|----------------|
-| Flux          | Photo Gen             | 
-| Wan (soon)           | Video Gen            | 
+| Flux (soon)          | Photo Gen (picture-gen)            | 
+| Wan (uploaded)           | Video Gen (video-gen)            | 
 | loading..     | soon           | 
 
 ## Tips for Better Results
